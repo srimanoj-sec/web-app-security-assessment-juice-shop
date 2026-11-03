@@ -29,8 +29,8 @@ docker run -d -p 3000:3000 bkimminich/juice-shop
 |---|---|
 | Target | OWASP Juice Shop, http://localhost:3000 |
 | Assessment type | Black-box web application penetration test |
-| Tester | [Your name] |
-| Test period | [Start date] to [End date] |
+| Tester | Srimanoj R |
+| Test period | [21/06/26] to [25/06/26] |
 | Report version | 1.0 Final |
 | Classification | Practice Report – Training Lab |
 
@@ -317,7 +317,7 @@ The application contains several critical weaknesses that can be chained: SQL in
 | Field | Detail |
 |---|---|
 | Purpose | Practice / training exercise (no client) |
-| Prepared by | [Your name], Security Student |
+| Prepared by | Srimanoj R, Security Student |
 | Reviewed by | Self-reviewed (practice) |
 | Distribution | Personal practice – not for distribution |
 
